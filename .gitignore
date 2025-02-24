@@ -1,0 +1,6 @@
+# To keep the source code clean, we will ignore the following files
+*/_*/*.json
+*/_*/*.csv
+*/_*/*.txt
+
+*.mp4
