@@ -1,0 +1,6 @@
+# ignoring output folders
+*__
+
+# ignoring folders in case of local development
+apps/
+build/
