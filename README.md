@@ -1,4 +1,4 @@
-# EKEEL Annotator
+# EKEEL Video Annotation
 
 The EKEEL Video Annotation System is a comprehensive tool designed for manual and semi-automatic annotation of educational videos. It allows users to add, edit, and manage annotations that can be used for various research and educational purposes. 
 
